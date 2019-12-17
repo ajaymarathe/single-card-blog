@@ -2,13 +2,13 @@
 Hi there, this is single-card-blog is based bootcatch-apollo-theme, thanks.
 
 ### first-shot
-[![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/card-blog/single-card-blog.png)](https://ajaymarathe.github.io/single-card-blog/)
+[![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/card-blog/single-card-blog.png)](https://ajaymarathe.github.io/single-card-blog/index)
 
 ## About
 
 Bootcatch-themes is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* https://ajaymarathe.github.io/single-card-blog/
+* https://ajaymarathe.github.io/single-card-blog/index
 * http://bootcatch.com/theme
 
 ## Usage
